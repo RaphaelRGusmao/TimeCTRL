@@ -1,0 +1,25 @@
+@import "ionic.globals";
+@import "ionic.theme.default";
+@import "ionic.ionicons";
+@import "roboto";
+@import "noto-sans";
+
+$font-path: "../assets/fonts";
+$app-direction: ltr;
+
+$colors: (
+  primary:    #3F51B5,
+  light:      #FFFFFF,
+  dark:       #212121
+);
+
+// Range
+$range-md-knob-width: 24px;
+$range-ios-knob-width: $range-md-knob-width;
+$range-wp-knob-width: $range-md-knob-width;
+$range-md-bar-height: 4px;
+$range-ios-bar-height: $range-md-bar-height;
+$range-wp-bar-height: $range-md-bar-height;
+$range-md-tick-width: 0;
+$range-ios-tick-width: $range-md-tick-width;
+$range-wp-tick-width: $range-md-tick-width;

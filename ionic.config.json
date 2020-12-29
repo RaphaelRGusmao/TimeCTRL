@@ -1,0 +1,7 @@
+{
+  "name": "TimeCTRL",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
