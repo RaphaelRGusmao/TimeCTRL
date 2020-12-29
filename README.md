@@ -42,4 +42,4 @@ Os códigos principais do app estão na pasta [src/pages/home/](src/pages/home/)
 
 ### Demonstração
 
-![Demo](demo3.gif)
+![Demo](demo.gif)
